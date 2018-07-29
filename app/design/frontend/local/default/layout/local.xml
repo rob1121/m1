@@ -1,0 +1,8 @@
+
+<layout version="0.1.0">
+    <default>
+        <reference name="catalog.topnav">
+            <block type="core/template" name="top.search" as="menuSearch" template="catalogsearch/form.mini.phtml"/>
+        </reference>
+    </default>
+</layout>
